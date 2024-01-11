@@ -1,5 +1,5 @@
 # CS231n: Convolutional Neural Networks for Visual Recognition - Assignment Solutions
-
+copied from https://github.com/jariasf/CS231n
 
 This repository contains my solutions to the assignments of the [CS231n](http://cs231n.stanford.edu/) course offered by Stanford University (Spring 2018).
 
